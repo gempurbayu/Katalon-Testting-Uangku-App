@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go To Transaction</name>
+   <tag></tag>
+   <elementGuidId>ad8f627b-4f01-4b5a-8fae-ddaa9dd999c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-main.btn-round-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top']/section[2]/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9b391d6-c3c6-4175-af4d-4af3bc422df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/uangku/transaction</value>
+      <webElementGuid>df16c078-83c6-4f90-b1ef-84bc3488e58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-main btn-round-full</value>
+      <webElementGuid>31a82f1a-3097-4868-9589-debb9ea384cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go To Transaction</value>
+      <webElementGuid>eb3f7453-03ea-445d-9fb5-d99ccfed1a7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/section[@class=&quot;features&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;feature-block d-lg-flex&quot;]/div[@class=&quot;feature-item mb-5 mb-lg-0&quot;]/a[@class=&quot;btn btn-main btn-round-full&quot;]</value>
+      <webElementGuid>f5addc5a-b81d-48ea-bcd9-adc4cccebd55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top']/section[2]/div/div/div/div/div/a</value>
+      <webElementGuid>7e1ef56c-d3bc-459d-866e-df680af4b9d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Go To Transaction')]</value>
+      <webElementGuid>843641bd-213b-49bb-9e62-ed104b176e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[1]/following::a[1]</value>
+      <webElementGuid>87b532cc-529e-46e4-befc-5dc66611eef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GET STARTED'])[1]/following::a[1]</value>
+      <webElementGuid>b13d4fc4-5749-4703-8ef5-8f8b30b174d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MultiPayment'])[2]/preceding::a[1]</value>
+      <webElementGuid>4f25ee41-d21e-4846-8209-1f3b72c3aee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go To MultiPayment'])[1]/preceding::a[1]</value>
+      <webElementGuid>8da2a85f-c421-4b9c-a48e-0c0d65869d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go To Transaction']/parent::*</value>
+      <webElementGuid>05c0ce2f-2a29-4986-9be0-db0a772618c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/uangku/transaction')])[3]</value>
+      <webElementGuid>93358aa1-5813-4b5b-bbea-527971e6b9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/div/a</value>
+      <webElementGuid>18756f5e-3847-4d1f-a684-15cf2466712b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/uangku/transaction' and (text() = 'Go To Transaction' or . = 'Go To Transaction')]</value>
+      <webElementGuid>a4b513df-0e57-4c2f-b199-88e4d7601586</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

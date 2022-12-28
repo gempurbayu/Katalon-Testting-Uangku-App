@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-4.3-Gagal Transaksi (Nominal Pembayaran Tidak Valid)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9be3981a-8bf7-47d7-893f-c2e479d01062</testCaseGuid>
+</TestCaseEntity>

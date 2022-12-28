@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-1.2-Gagal Login (Email tidak ditemukan)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32de6fe7-8ea7-4ec7-852f-9100cb7d860b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-2.3-Gagal Register (Input kosong)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b4279e3-f3a7-493f-b265-7b8239c696fd</testCaseGuid>
+</TestCaseEntity>
